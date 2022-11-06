@@ -10,7 +10,6 @@ This list of words is not complete, but it should provide a thorough enough base
 
 ## Dictionary
 
-````json
 ```json:table
 {
     "fields" : [
@@ -25,4 +24,3 @@ This list of words is not complete, but it should provide a thorough enough base
     "filter" : true
 }
 ```
-````
