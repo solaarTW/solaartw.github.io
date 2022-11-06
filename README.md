@@ -7,7 +7,7 @@ coverY: 0
 
 # 👋 Welcome!
 
-## Brief
+## Briefa
 
 This is the home for the Cyberpunk 2077 Modding Community! We are a diverse community of enthusiasts which formed around a shared passion for modding REDengine with Cyberpunk 2077. Modding Cyberpunk 2077 has been made possible in large part due to significant efforts from developers active within our community. This wiki is an effort to document our collective knowledge and experience to help fellow mod-users and developers.
 
