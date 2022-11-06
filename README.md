@@ -3,6 +3,7 @@ description: Modding and Mod Development Resource
 cover: >-
   https://images.unsplash.com/photo-1530128118208-89f6ce02b37b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxyZWR8ZW58MHx8fHwxNjY3NzAxMzM1&ixlib=rb-4.0.3&q=80
 coverY: 723.3534246575343
+layout: landing
 ---
 
 # 👋 Welcome!
