@@ -1,2 +1,0 @@
-# ▫ Deep Asset Discovery
-

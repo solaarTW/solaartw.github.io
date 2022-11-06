@@ -1,2 +1,0 @@
-# ▫ PixelRick's Save Editor
-
