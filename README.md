@@ -3,7 +3,6 @@ description: Modding and Mod Development Resource
 cover: >-
   https://images.unsplash.com/photo-1530128118208-89f6ce02b37b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxyZWR8ZW58MHx8fHwxNjY3NzAxMzM1&ixlib=rb-4.0.3&q=80
 coverY: 723.3534246575343
-layout: landing
 ---
 
 # 👋 Welcome!
@@ -18,7 +17,9 @@ This is the home for the RED Modding Wiki! We are a diverse community of enthusi
 Watich 3 Modding Resource
 {% endembed %}
 
-{% embed url="https://solaartw.gitbook.io/modder/" %}
+{% embed url="https://solaartws-organization.gitbook.io/modder/" %}
+Cyperber Punk 2077 Modder Resources
+{% endembed %}
 
 {% embed url="https://solaartws-organization.gitbook.io/mod-developer/" %}
 Cyberpunk 2077 Developer Resources
