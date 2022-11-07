@@ -18,9 +18,7 @@ This is the home for the RED Modding Wiki! We are a diverse community of enthusi
 Watich 3 Modding Resource
 {% endembed %}
 
-{% embed url="https://solaartws-organization.gitbook.io/modder/" %}
-Cyperber Punk 2077 Modder Resources
-{% endembed %}
+{% embed url="https://solaartw.gitbook.io/modder/" %}
 
 {% embed url="https://solaartws-organization.gitbook.io/mod-developer/" %}
 Cyberpunk 2077 Developer Resources
